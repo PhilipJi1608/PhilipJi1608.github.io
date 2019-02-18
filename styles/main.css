@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(160, 235, 235);
+}
+#header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: rgb(64, 106, 221);
+   
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+}
+
+
+p {
+    font-size: 15pt;
+    text-align: center;
+}
+
+
