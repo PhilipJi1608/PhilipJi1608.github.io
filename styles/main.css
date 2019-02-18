@@ -9,7 +9,7 @@ body {
     background-color: rgb(64, 106, 221);
    
 }
-
+.left-image-container {float: left;}
 h3 {
     text-align: center;
     font-family: 'Marck Script', cursive;
