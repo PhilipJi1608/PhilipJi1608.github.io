@@ -9,13 +9,13 @@ body {
     background-color: rgb(64, 106, 221);
    
 }
-.left-image-container {float: left;}
+.left-image-container {float: right;}
 h3 {
-    text-align: center;
+    text-align: right;
     font-family: 'Marck Script', cursive;
 }
 
-
+.welcomemessage {}
 p {
     font-size: 15pt;
     text-align: center;
