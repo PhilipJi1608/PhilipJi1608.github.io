@@ -7,4 +7,11 @@ body {
     text-align: left;
     font-family: 'Permanent Marker', cursive;
     background-color: rgb(64, 106, 221);
-   
+}
+
+.css-box-model-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

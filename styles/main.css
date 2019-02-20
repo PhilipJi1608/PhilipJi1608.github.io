@@ -1,6 +1,7 @@
 body {
     background-color: rgb(160, 235, 235);
 }
+
 #header {
     padding: 30px;
     font-size: 40px;
@@ -9,6 +10,7 @@ body {
     background-color: rgb(64, 106, 221);
    
 }
+
 .left-image-container {float: right;}
 h3 {
     text-align: right;
